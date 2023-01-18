@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Dev Ingridk 😁
+## Bem-vindo(a) ao perfil da Dev Ingridk!
 
  <div>
    <a href="https://github.com/DevIngridk">
