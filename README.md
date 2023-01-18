@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da Dev Ingridk!
+## Bem-vindo(a) ao perfil Dev Ingridk!
 
  <div>
    <a href="https://github.com/DevIngridk">
@@ -25,7 +25,5 @@
  
   <a href = "mailto:ingridkemilym@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-kemily-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/DevIngridk/DevIngridk/blob/output/github-contribution-grid-snake.svg)
 
 </div>
