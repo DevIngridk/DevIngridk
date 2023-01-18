@@ -19,7 +19,7 @@
  
  <br>
  
-  ### Para entrar em contato comigo tenho os meios abaixo:
+  ### Entre em contato abaixo:
  
 <div> 
  
