@@ -15,7 +15,7 @@
  
  <br>
  
-  ### Para entrar em contato comigo tenho os meios abaixo!
+  ### Para entrar em contato comigo tenho os meios abaixo:
  
 <div> 
  
